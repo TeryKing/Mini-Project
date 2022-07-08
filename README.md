@@ -5,7 +5,7 @@ Refractored by Terry Kim
 
 ## Screenshots
 
-![App Screenshot]()
+![App Screenshot](./assets/images/Horiseon%20Main%20Page.gif)
 Live Website: https://teryking.github.io/Mini-Project/
 
 
